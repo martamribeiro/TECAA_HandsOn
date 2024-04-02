@@ -7,7 +7,6 @@
       "base",
       "body",
       "button",
-      "card-grid",
       "circle",
       "code",
       "details",
@@ -99,7 +98,6 @@
       "docs-toc",
       "doks-sidebar",
       "error404",
-      "faq",
       "flex-column",
       "flex-grow-1",
       "flex-lg-row",
@@ -243,7 +241,6 @@
       "offcanvasNavSection",
       "offcanvasNavSectionLabel",
       "query",
-      "question-1",
       "search-form",
       "searchModal",
       "searchModalLabel",
@@ -251,7 +248,6 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
-      "some-question",
       "toc"
     ]
   }

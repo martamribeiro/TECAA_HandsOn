@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/crist/Desktop/Uni Stuff/Mestrado/Semestre_2/TECAA/TECAA_HandsOn/FinalProject",
+	"sourceRoot": "C:/Users/João Oliveira/Desktop/Mestrado/Semestre2/TECAA/RepoTecaa/TECAA_HandsOn/FinalProject",
 	"sources": [
 		"node_modules/@hyas/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
