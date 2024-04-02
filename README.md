@@ -62,8 +62,23 @@ As you might have noticed, both Link Cards send the user to the same webpage. No
     title="Blog"
     description="Explore the Blog page"
     href="/blog/"
-    target="_blank"
   >}}
 ```
+## 4- Add the "target" attribute to a Link Card
+Link Cards allow a "target" attribute to be defined. Change Blog Link Card to the code below. Can you notice any changes?
 
-The inserted code has a "target" attribute defined. Can you still remember what it is used for? :D
+``` bash
+{{< card-grid >}}
+  {{< link-card
+    title="Docs"
+    description="Go back to the Docs"
+    href="/docs/end/the-end/"
+  >}}
+  {{< link-card
+    title="Blog"
+    description="Explore the Blog page"
+    href="/blog/"
+    target="_blank"
+  >}}
+{{< /card-grid >}}
+```
