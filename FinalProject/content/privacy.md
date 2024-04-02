@@ -12,10 +12,3 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-{{< link-card
-  title="Docs End"
-  description="Explore the end of the docs"
-  href="/docs/end/the-end/"
-  target="_blank"
->}}

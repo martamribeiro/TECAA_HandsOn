@@ -41,8 +41,7 @@ You reached the end.
 - Ok... If you dare... Click the button bellow.
 
 {{< link-card
-  title="Privacy Policy"
-  description="Explore the privacy policy page"
-  href="/privacy/"
-  target="_blank"
+  title="Secret Page"
+  description=""
+  href="/random/"
 >}}

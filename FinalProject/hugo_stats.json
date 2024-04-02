@@ -7,6 +7,7 @@
       "base",
       "body",
       "button",
+      "card-grid",
       "circle",
       "code",
       "details",
@@ -41,15 +42,9 @@
       "style",
       "summary",
       "svg",
-      "table",
-      "tbody",
-      "td",
       "template",
-      "th",
-      "thead",
       "time",
       "title",
-      "tr",
       "ul"
     ],
     "classes": [
@@ -104,6 +99,7 @@
       "docs-toc",
       "doks-sidebar",
       "error404",
+      "faq",
       "flex-column",
       "flex-grow-1",
       "flex-lg-row",
@@ -195,6 +191,7 @@
       "privacy",
       "px-0",
       "query-no-results",
+      "random",
       "reading-time",
       "rounded-pill",
       "row",
@@ -246,6 +243,7 @@
       "offcanvasNavSection",
       "offcanvasNavSectionLabel",
       "query",
+      "question-1",
       "search-form",
       "searchModal",
       "searchModalLabel",
@@ -253,6 +251,7 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
+      "some-question",
       "toc"
     ]
   }
